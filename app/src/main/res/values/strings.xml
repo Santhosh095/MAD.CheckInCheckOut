@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckInCheckOut</string>
+    <string name="Welcome_text">Android Studio\nCheck-In Check-Out App</string>
+    <string name="credits2">Designed By Santhosh S 200701221 REC\nMobile Application Development Laboratory</string>
+    <string name="get_started">Get Started</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="answer">0</string>
+    <string name="present_count">Present Count :</string>
+    <string name="reset">reset</string>
+</resources>
